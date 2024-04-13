@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9a3444db-031b-4add-8d37-c6d17bb7068d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/aula3/Livraria.java" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula3/Livraria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/aula3/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula3/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aulas/aula3/application/LivrariaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula3/application/LivrariaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,14 +59,14 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.LivrariaTest.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LivrariaTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/arthur/IdeaProjects&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eduarda.diniz/Documents/Livraria-em-Java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -83,7 +81,7 @@
   <component name="RunManager" selected="Application.LivrariaTest">
     <configuration name="LivrariaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulas.aula3.application.LivrariaTest" />
-      <module name="poo-1s2024" />
+      <module name="TarefaJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aulas.aula3.application.*" />
@@ -117,7 +115,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
       </set>
     </attachedChunks>
   </component>
@@ -163,5 +161,25 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aulas/Exemplo.class</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/aulas/Exemplo.class</url>
+          <line>11</line>
+          <properties class="aulas.Exemplo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

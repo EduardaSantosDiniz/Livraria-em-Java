@@ -2,6 +2,7 @@ package aulas.aula3.application;
 
 import aulas.aula3.Livraria;
 import aulas.aula3.Livro;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -14,7 +15,7 @@ public class LivrariaTest {
         Livraria livraria = new Livraria();
         int opcao = 0;
 
-        while (opcao != 5){
+        while (opcao != 5) {
             System.out.println("1 - Adicionar livro");
             System.out.println("2 - Listar livros");
             System.out.println("3 - Detalhar livro");
@@ -22,7 +23,7 @@ public class LivrariaTest {
             System.out.println("5 - Sair");
             opcao = sc.nextInt();
 
-            switch (opcao){
+            switch (opcao) {
                 case 1:
                     System.out.println("Adicionando livro");
                     System.out.print("ID: ");
@@ -63,7 +64,6 @@ public class LivrariaTest {
                     break;
             }
         }
-
 
 
         sc.close();
