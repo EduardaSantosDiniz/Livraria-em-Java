@@ -6,6 +6,9 @@ No seu repositório de atividades, crie uma pasta chamada livraria;
 
 Implemente um sistema que contenha as classes Sistema, Livraria e Livro, conforme diagrama abaixo:
 
+![foto](https://github.com/EduardaSantosDiniz/TarefaJava/assets/141766958/dac8534c-0a80-44dc-b9eb-fb411c5a6226)
+
+
 
 
 O sistema deve apresentar 4 opções para o usuário:
