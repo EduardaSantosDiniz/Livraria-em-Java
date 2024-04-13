@@ -2,7 +2,7 @@ package aulas;
 
 public class Exemplo {
     public static void main(String[] args) {
-        System.out.println("INICIANDO AULA DE PROGRAMAÇÃO ORIENTADA A OBJETOS NA FACULDADE");
+        System.out.println("Tarefa de java na aula de sábado");
 
     }
 }
