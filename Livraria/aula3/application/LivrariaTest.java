@@ -1,7 +1,7 @@
-package aulas.aula3.application;
+package Livraria.aula3.application;
 
-import aulas.aula3.Livraria;
-import aulas.aula3.Livro;
+import Livraria.aula3.Livraria;
+import Livraria.aula3.Livro;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

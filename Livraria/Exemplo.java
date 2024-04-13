@@ -1,4 +1,4 @@
-package aulas;
+package Livraria;
 
 public class Exemplo {
     public static void main(String[] args) {
